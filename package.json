@@ -21,8 +21,8 @@
   "author": "Matt Bell <mappum@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "gobyte-util": "^2.0.0",
-    "webcoin-params-gobyte": "^1.0.0"
+    "gobyte-util": "gobytecoin/gobyte-util",
+    "webcoin-params-gobyte": "gobytecoin/webcoin-params-gobyte"
   },
   "devDependencies": {
     "babel-cli": "^6.4.5",
